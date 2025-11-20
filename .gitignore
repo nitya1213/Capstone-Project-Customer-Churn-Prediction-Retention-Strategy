@@ -1,0 +1,87 @@
+# ----------------------
+# Python / ML Project
+# ----------------------
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Build and distribution folders
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# Model files (optional – if too large, keep small ones)
+# Uncomment if you don't want to commit models
+# models/*.pkl
+
+# Temporary or auto-generated folders
+outputs/temp/
+temp/
+*.tmp
+
+# Dataset cache (optional)
+data/*.tmp
+data/*.zip
+data/*.xlsx
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code, PyCharm, and other IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# JupyterLab workspace
+.jupyter/
+
+# Docker/Pip/Virtual env cache
+pip-wheel-metadata/
+pip-selfcheck.json
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# pytest
+.cache/
+.pytest_cache/
+
+# MyPy / Static analysis
+.mypy_cache/
+
+# Mac/Linux swap files
+*.swp
+*.swo
+
+# --------------------
+# Project-Specific
+# --------------------
+
+# Remove large EDA outputs if needed
+# Comment out if you DO want to track figures
+outputs/figures/*.png
+models/*.pkl
+notebooks/models/*.pkl
+
+
+# Generated CSVs / processed data (if not needed)
+# data/processed_*.csv
+
