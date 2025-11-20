@@ -73,8 +73,11 @@ chmod +x run_all.sh
 
 This will:
 ✔ Create & activate `venv` (if not exists)
+
 ✔ Install only missing dependencies
+
 ✔ Run EDA → hyperparameter tuning → model training
+
 ✔ Save results in `outputs/` & `models/`
 
 ---
@@ -143,8 +146,11 @@ pip install -r requirements.txt
 ## 🧪 Reproducibility Checklist
 
 ✔ Source code version-controlled
+
 ✔ Data preprocessing fully automated
+
 ✔ Trained models and encoders exported
+
 ✔ Smart dependency handling in `run_all.sh`
 
 ---
@@ -152,9 +158,13 @@ pip install -r requirements.txt
 ## 🧠 Possible Future Enhancements
 
 🔹 Add Random Forest or Gradient Boosting models
+
 🔹 Model threshold optimization
+
 🔹 Customer segmentation-based retention strategies
+
 🔹 Flask/FastAPI deployment
+
 🔹 Integration with Tableau / PowerBI dashboards
 
 ---
