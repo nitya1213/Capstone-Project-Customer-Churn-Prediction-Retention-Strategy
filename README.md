@@ -158,7 +158,9 @@ pip install -r requirements.txt
 
 **Nitya Rai**
 📍 Capstone Project — Customer Churn Prediction & Retention Strategy
+
 🗓 Timeline: August 2025
+
 💡 Focused on data analytics, predictive modeling & business impact
 
 ---
