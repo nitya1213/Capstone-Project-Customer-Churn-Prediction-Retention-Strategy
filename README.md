@@ -1,7 +1,3 @@
-Here’s your **final complete README.md** — **fully aligned with the current state of your project**, with clean structure, GitHub-ready formatting, and a professional tone (interview/presentation friendly).
-
-You can **copy-paste directly into `README.md`**.
-
 ---
 
 # 📊 Customer Churn Prediction & Analysis
@@ -23,8 +19,6 @@ The aim is to identify key drivers of churn, predict high-risk customers, and en
 * 🔎 Hyperparameter tuning via GridSearchCV
 * 💾 Best model saved (`models/best_model.pkl`)
 * 📈 Visuals of churn trends and confusion matrices (`outputs/figures/`)
-
-No dashboarding or presentations are included in this version (handled separately).
 
 ---
 
