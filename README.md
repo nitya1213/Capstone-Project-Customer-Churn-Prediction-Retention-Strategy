@@ -113,10 +113,15 @@ Final model is saved at:
 Located in: `outputs/figures/`
 
 ✔ Churn distribution
+
 ✔ Age & country-wise churn
+
 ✔ Feedback vs churn
+
 ✔ Login frequency & recency trends
+
 ✔ Support call influence
+
 ✔ Confusion matrices for all models
 
 ---
