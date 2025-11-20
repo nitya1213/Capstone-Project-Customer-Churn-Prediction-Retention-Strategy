@@ -63,7 +63,7 @@ customer_churn_project
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/nitya1213/Capstone-Project-Customer-Churn-Prediction-Retention-Strategy
 cd customer_churn_project
 ```
 
