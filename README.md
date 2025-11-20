@@ -1,5 +1,3 @@
----
-
 # 📊 Customer Churn Prediction & Analysis
 
 *A Data-Driven Approach to Understanding User Drop-Offs & Optimizing Retention*
